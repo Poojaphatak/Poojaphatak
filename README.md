@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pooja Phatak!
 
-🎓 First-year B.Tech CSE student at PICT, Pune  
+🎓 Second-year B.Tech CSE student at PICT, Pune  
 💻Tech-enthusiast currently exploring web-development
 
 
